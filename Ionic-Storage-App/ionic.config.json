@@ -1,0 +1,7 @@
+{
+  "name": "storage_test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
